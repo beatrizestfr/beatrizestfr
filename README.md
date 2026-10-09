@@ -1,7 +1,6 @@
 # Hi, I'm Beatriz Estebaranz Franco
 
-**ICT-Electronics student (Application Development) at [Thomas More University of Applied Sciences](https://www.thomasmore.be/en)** with a growing focus on **robotics and embedded systems**.
-
+**ICT-Electronics student (Application Development) at [Thomas More University of Applied Sciences](https://www.thomasmore.be/en)** 
 My projects range from web apps and games to code that moves real hardware: a microcontroller robot that avoids obstacles, and an industrial robot arm that sorts parts. I'm currently looking for **internship opportunities in robotics and embedded systems**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Estebaranz%20Franco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-estebaranz-franco)
